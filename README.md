@@ -62,7 +62,7 @@ This portfolio is fully responsive and adapts seamlessly across:
 
 ---
 
-## Getting Started
+## 🚀 Getting Started
 
 1. **Clone the repository**
    ```bash
@@ -70,8 +70,12 @@ This portfolio is fully responsive and adapts seamlessly across:
 ````
 
 2. **Open in browser**
-    ```bash
-   * Open `index.html` directly in your browser or use Live Server in VS Code.
-````
----
+
+   * Open the `index.html` file directly in your browser
+     *or*
+   * Use the **Live Server** extension in **VS Code** for a better development experience.
+
+```
+
+
 
