@@ -71,6 +71,6 @@ This portfolio is fully responsive and adapts seamlessly across:
 
 2. **Open in browser**
 
-   * Open the `index.html` file directly in your browser
+    Open the `index.html` file directly in your browser
      *or*
-   * Use the **Live Server** extension in **VS Code** for a better development experience.
+    Use the **Live Server** extension in **VS Code** for a better development experience.
