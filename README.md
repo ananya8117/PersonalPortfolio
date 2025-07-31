@@ -67,7 +67,7 @@ This portfolio is fully responsive and adapts seamlessly across:
 1. **Clone the repository**
    ```bash
    git clone https://github.com/your-username/portfolio-website.git
-````
+   ````
 
 2. **Open in browser**
 
