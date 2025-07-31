@@ -70,8 +70,8 @@ This portfolio is fully responsive and adapts seamlessly across:
 ````
 
 2. **Open in browser**
-
+    ```bash
    * Open `index.html` directly in your browser or use Live Server in VS Code.
-
+````
 ---
 
